@@ -55,15 +55,6 @@ export const PROJECTS = [
     githubLink: "https://github.com/anush-2007/Netflix-clone"
   },
   {
-    title: "Appointfit",
-    image: project3,
-    description:
-      "A Fitness Trainer Appointment Scheduling Web App to enhance the efficiency of client management. This comprehensive solution empowers fitness trainers with key functionalities for creating, editing, and deleting appointments, coupled with an intuitive calendar view for organized date-wise appointments.",
-    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux"],
-    liveLink: "https://appoint-fit.vercel.app/",
-    githubLink: "https://github.com/anush-2007/appoint-fit"
-  },
-  {
     title: "Portfolio Website",
     image: project2,
     description:
@@ -71,6 +62,15 @@ export const PROJECTS = [
     technologies: ["ReactJs", "Tailwind", "Framer Motion"],
     liveLink: "https://swapnilawasthi-portfolio.vercel.app/",
     githubLink: "https://github.com/swapnilawasthi-dev/dev-porfolio"
+  },
+  {
+    title: "Appointfit",
+    image: project3,
+    description:
+      "A Fitness Trainer Appointment Scheduling Web App to enhance the efficiency of client management. This comprehensive solution empowers fitness trainers with key functionalities for creating, editing, and deleting appointments, coupled with an intuitive calendar view for organized date-wise appointments.",
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux"],
+    liveLink: "https://appoint-fit.vercel.app/",
+    githubLink: "https://github.com/anush-2007/appoint-fit"
   },
 ];
 

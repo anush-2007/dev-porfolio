@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import logo from "../assets/logo.svg";
 import { BiChevronUp, BiChevronDown } from "react-icons/bi";
 import { motion } from "framer-motion";
-import resumeFile from "../assets/SwapnilAwasthi-Resume.pdf";
+import resumeFile from "../assets/Anush_Resume.pdf";
 
 const container = (delay) => ({
   hidden: { y: -100, opacity: 0 },
@@ -100,7 +100,7 @@ const Navbar = () => {
           </motion.button>
           <motion.a
             href={resumeFile}
-            download="SwapnilAwasthi_Resume.pdf"
+            download="Anush_Resume.pdf"
             variants={container(1)}
             initial="hidden"
             animate="visible"
@@ -173,7 +173,7 @@ const Navbar = () => {
           </button>
           <a
             href={resumeFile}
-            download="SwapnilAwasthi_Resume.pdf"
+            download="Anush_Resume.pdf"
             className=" text-xl py-2 w-full font-mono text-center rounded-lg border-b-2 border-t-2"
           >
             Resume

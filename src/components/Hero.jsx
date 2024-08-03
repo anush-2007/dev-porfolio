@@ -24,7 +24,7 @@ const Hero = () => {
               animate="visible"
               className=" max-[375px]:text-3xl  max-md:text-5xl pb-16 text-6xl font-thin tracking-tight lg:mt-16 xl:text-8xl"
             >
-              Swapnil Awasthi
+              Anush Bhardwaj
             </motion.h1>
             <motion.span
               variants={container(0.5)}
@@ -57,7 +57,7 @@ const Hero = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.2 }}
               src={profilePic}
-              alt="Swapnil Awasthi"
+              alt="Anush Bhardwaj"
               className=" rounded-xl"
             />
           </div>
