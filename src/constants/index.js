@@ -34,34 +34,34 @@ export const EXPERIENCES = [
 ];
 
 export const NAVLINKS = {
-  github: "https://github.com/swapnilawasthi-dev",
-  linkedIn: "https://www.linkedin.com/in/swapnil-awasthi-710a5a168/",
-  x: "https://twitter.com/_swapnilawasthi",
+  github: "https://github.com/anush-2007",
+  linkedIn: "https://www.linkedin.com/in/anush-bhardwaj-818694114/",
+  x: "https://x.com/anush_bhardwaj",
 };
 
 
-export const HERO_CONTENT = `Software Engineer with about a year of experience in Javascript and its frameworks, translating user stories and wireframes into high quality reusable code, delivering seamless and high-performance user experiences. Adept at consistently updating skills with emerging technologies while maintaining a strong foundation in data structures and algorithms.`;
+export const HERO_CONTENT = `Aspiring Software Engineer with a strong foundation in Javascript and its frameworks. Skilled in translating user stories and wireframes into high-quality, reusable code to deliver seamless and high-performance user experiences. Proficient in data structures and algorithms, and committed to consistently updating skills with emerging technologies.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile software engineer with a passion for creating efficient and user-friendly web applications. With 1 year of professional experience, I have worked with a variety of technologies, including React, React Native, Ionic, Angular and Firebase. My journey in software development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. In addition to my professional pursuits, I am an avid traveler, finding joy in exploring new cultures and destinations. Traveling not only broadens my perspective but also fuels my creativity by exposing me to diverse experiences and environments. Alongside my adventures, I indulge in the world of literature, spending my free time immersed in books across various genres. Reading not only enriches my mind but also nurtures critical thinking and continuous personal growth.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile software engineer with a passion for creating efficient and user-friendly web applications. Although I have no professional experience yet, I have developed strong skills in React and JavaScript. My journey in software development began with a deep curiosity for how things work, and it has evolved into a focused effort to continuously learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. In addition to my technical pursuits, I am an avid traveler, finding joy in exploring new cultures and destinations. Traveling not only broadens my perspective but also fuels my creativity by exposing me to diverse experiences and environments. Alongside my adventures, I indulge in the world of literature, spending my free time immersed in books across various genres. Reading not only enriches my mind but also nurtures critical thinking and continuous personal growth.`;
 
 export const PROJECTS = [
   {
-    title: "JS Editor",
+    title: "Netflix Clone",
     image: project1,
     description:
-      "Built an online editor for showcasing user-created HTML, CSS, and JavaScript code snippets. Utilized ReactJs, Firebase, and Tailwind.",
-    technologies: ["ReactJs", "Firebase", "Tailwind"],
-    liveLink: "https://jseditor-bba2c.web.app",
-    githubLink: "https://github.com/swapnilawasthi-dev/JSeditor"
+      "The project is anambitious initiative aimed at replicating the core functionalities of the renowned streaming platform Netflix. It revolves around three key functionalities: UserAuthentication, Search, and the Browse Page. The project features a robust User Authentication system that enables users to create accounts, loginsecurely, and enjoy a personalized experience. The Search functionality is a pivotal feature, allowing users to find their preferred content within the vast library. The heart of the application lies in its Browse Page, designed to replicate the intuitive layout of Netflix.",
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Firebase", "APIs", "Redux Store"],
+    liveLink: "https://netflixclonegpt.netlify.app/",
+    githubLink: "https://github.com/anush-2007/Netflix-clone"
   },
   {
-    title: "Trello Task Mangagemennt",
+    title: "Appointfit",
     image: project3,
     description:
-      "Built a task management system using the Pinia store in a Vue.js application. It manages boards, columns, and tasks, allowing users to select and modify tasks within boards.",
-    technologies: ["Vue 3", "Tailwind", "Pinia"],
-    liveLink: "https://trello-task-management-six.vercel.app/",
-    githubLink: "https://github.com/swapnilawasthi-dev/trello-task-management"
+      "A Fitness Trainer Appointment Scheduling Web App to enhance the efficiency of client management. This comprehensive solution empowers fitness trainers with key functionalities for creating, editing, and deleting appointments, coupled with an intuitive calendar view for organized date-wise appointments.",
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux Store"],
+    liveLink: "https://appoint-fit.vercel.app/",
+    githubLink: "https://github.com/anush-2007/appoint-fit"
   },
   {
     title: "Portfolio Website",
@@ -75,7 +75,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  email: "swapnilawasthi.dev@gmail.com",
-  phoneNo: "+91 8003951788",
+  email: "anushbhardwaj2007@gmail.com",
+  phoneNo: "+91 7976447977",
 };
 
