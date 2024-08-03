@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project3.png";
+import project3 from "../assets/projects/project-3.png";
 
 
 export const EXPERIENCES = [
@@ -50,7 +50,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "The project is anambitious initiative aimed at replicating the core functionalities of the renowned streaming platform Netflix. It revolves around three key functionalities: UserAuthentication, Search, and the Browse Page. The project features a robust User Authentication system that enables users to create accounts, loginsecurely, and enjoy a personalized experience. The Search functionality is a pivotal feature, allowing users to find their preferred content within the vast library. The heart of the application lies in its Browse Page, designed to replicate the intuitive layout of Netflix.",
-    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Firebase", "APIs", "Redux Store"],
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Firebase", "Redux"],
     liveLink: "https://netflixclonegpt.netlify.app/",
     githubLink: "https://github.com/anush-2007/Netflix-clone"
   },
@@ -59,7 +59,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A Fitness Trainer Appointment Scheduling Web App to enhance the efficiency of client management. This comprehensive solution empowers fitness trainers with key functionalities for creating, editing, and deleting appointments, coupled with an intuitive calendar view for organized date-wise appointments.",
-    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux Store"],
+    technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux"],
     liveLink: "https://appoint-fit.vercel.app/",
     githubLink: "https://github.com/anush-2007/appoint-fit"
   },

@@ -1,10 +1,10 @@
 import { RiReactjsLine } from "react-icons/ri";
 import { FaAngular } from "react-icons/fa";
-import { FaNodeJs } from "react-icons/fa";
-import { FaSass } from "react-icons/fa";
+// import { FaNodeJs } from "react-icons/fa";
+import { FaHtml5 } from "react-icons/fa";
 import { SiTailwindcss } from "react-icons/si";
 import { DiMysql } from "react-icons/di";
-import { SiMongodb } from "react-icons/si";
+import { FaCss3 } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({

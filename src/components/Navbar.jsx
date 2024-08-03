@@ -83,7 +83,7 @@ const Navbar = () => {
                 .scrollIntoView({ behavior: "smooth" })
             }
           >
-            Experience
+            {/* Experience
           </motion.button>
           <motion.button
             variants={container(0.8)}
@@ -95,7 +95,7 @@ const Navbar = () => {
                 .getElementById("projects")
                 .scrollIntoView({ behavior: "smooth" })
             }
-          >
+          > */}
             Projects
           </motion.button>
           <motion.a
@@ -159,7 +159,7 @@ const Navbar = () => {
                 .scrollIntoView({ behavior: "smooth" })
             }
           >
-            Experience
+            {/* Experience
           </button>
           <button
             className=" text-xl py-2 w-full font-mono rounded-lg border-t-2"
@@ -168,7 +168,7 @@ const Navbar = () => {
                 .getElementById("projects")
                 .scrollIntoView({ behavior: "smooth" })
             }
-          >
+          > */}
             Projects
           </button>
           <a
