@@ -2,7 +2,7 @@ import { RiReactjsLine } from "react-icons/ri";
 // import { FaAngular } from "react-icons/fa";
 // import { FaNodeJs } from "react-icons/fa";
 import { FaHtml5 } from "react-icons/fa";
-import { SiHtml5, SiTailwindcss } from "react-icons/si";
+import { SiTailwindcss } from "react-icons/si";
 import { DiMysql } from "react-icons/di";
 import { FaCss3 } from "react-icons/fa";
 import {SiJavascript} from "react-icons/si";
@@ -46,7 +46,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-         <SiHtml5 className="text-7xl text-green-500" />
+         <FaHtml5 className="text-7xl text-green-500" />
         </motion.div>
         <motion.div
           variants={iconVariants(2.5)}
