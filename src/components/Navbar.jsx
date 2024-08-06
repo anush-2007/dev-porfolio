@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from "react";
 import logo from "../assets/logo.svg";
 import { BiChevronUp, BiChevronDown } from "react-icons/bi";
 import { motion } from "framer-motion";
