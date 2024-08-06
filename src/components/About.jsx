@@ -26,9 +26,9 @@ const About = () => {
           viewport={{ once: true }}
           initial={{ opacity: 0, y: 100 }}
           transition={{ duration: 1.5 }}
-          className="w-full lg:w-1/2"
+          className="w-full lg:w-1/2 lg:pl-8" 
         >
-          <div className="flex justify-center lg:justify-start">
+          <div className="flex items-center h-full">
             <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
           </div>
         </motion.div>

@@ -49,7 +49,7 @@ export const PROJECTS = [
     title: "Netflix Clone",
     image: project1,
     description:
-      "The project is anambitious initiative aimed at replicating the core functionalities of the renowned streaming platform Netflix. It revolves around three key functionalities: UserAuthentication, Search, and the Browse Page. The project features a robust User Authentication system that enables users to create accounts, loginsecurely, and enjoy a personalized experience. The Search functionality is a pivotal feature, allowing users to find their preferred content within the vast library. The heart of the application lies in its Browse Page, designed to replicate the intuitive layout of Netflix.",
+      "The Netflix Clone Project replicates Netflix's core functionalities, focusing on secure User Authentication, efficient Search with auto-suggestions, and an intuitive Browse Page with a Netflix-inspired layout for seamless navigation.",
     technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Firebase", "Redux"],
     liveLink: "https://netflixclonegpt.netlify.app/",
     githubLink: "https://github.com/anush-2007/Netflix-clone"
@@ -67,7 +67,7 @@ export const PROJECTS = [
     title: "Appointfit",
     image: project3,
     description:
-      "A Fitness Trainer Appointment Scheduling Web App to enhance the efficiency of client management. This comprehensive solution empowers fitness trainers with key functionalities for creating, editing, and deleting appointments, coupled with an intuitive calendar view for organized date-wise appointments.",
+      "A comprehensive solution to enhance client management efficiency for fitness trainers. Key features include creating, editing, and deleting appointments, along with an intuitive calendar view for organized, date-wise scheduling.",
     technologies: ["HTML", "CSS", "JavaScript", "ReactJs", "Redux"],
     liveLink: "https://appoint-fit.vercel.app/",
     githubLink: "https://github.com/anush-2007/appoint-fit"
