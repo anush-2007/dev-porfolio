@@ -72,7 +72,7 @@ const Navbar = () => {
           >
             Technologies
           </motion.button>
-          <motion.button
+          {/* <motion.button
             variants={container(0.6)}
             initial="hidden"
             animate="visible"
@@ -83,8 +83,8 @@ const Navbar = () => {
                 .scrollIntoView({ behavior: "smooth" })
             }
           >
-            {/* Experience
-          </motion.button>
+            Experience
+          </motion.button> */}
           <motion.button
             variants={container(0.8)}
             initial="hidden"
@@ -95,7 +95,7 @@ const Navbar = () => {
                 .getElementById("projects")
                 .scrollIntoView({ behavior: "smooth" })
             }
-          > */}
+          >
             Projects
           </motion.button>
           <motion.a
