@@ -25,7 +25,7 @@ const About = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           initial={{ opacity: 0, y: 100 }}
-          transition={{ duration: 1.5 }}
+          transition={{ duration: 2.5 }}
           className="w-full lg:w-1/2 lg:pl-8" 
         >
           <div className="flex items-center h-full">
