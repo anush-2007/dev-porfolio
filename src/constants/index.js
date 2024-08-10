@@ -5,32 +5,30 @@ import project3 from "../assets/projects/project-3.png";
 
 export const EXPERIENCES = [
   {
-    year: "Sept 2023 - Present",
-    role: "Software Engineer - Frontend",
-    company: "Abacus Desk IT Solutions",
+    year: "May 2023 - Aug 2023",
+    role: "Frontend Developer Intern",
+    company: "MemeXD",
     description: [
-      `Spearheaded the development and maintenance of CRM tools over 20 projects using Angular, demonstrating proficiency in frontend development and enabling effective client relationship management`,
-      `Utilized SCSS and Angular Material to design and implement diverse components, ensuring the creation of visually appealing and responsive user interfaces tailored to project requirements`,
+      'Developed and maintained web applications using React.js and other related technologies.',
       `Played a pivotal role in fostering collaboration among cross-functional teams, facilitating seamless transitions of new features and updates into existing projects to meet project deadlines and objectives`,
-      `Acted as a primary liaison with clients, effectively gathering and analyzing product requirements and feedback to drive feature development and enhance product functionality and usability`,
-      `Engineered a robust progress bar feature, empowering users to download extensive datasets in manageable chunks, thereby optimizing performance and user experience`,
-      `Led the successful migration of an application from Ionic to React Native, leveraging advanced skills in both frameworks to enhance app performance, scalability, and user engagement`,
-      `Developed and implemented user-engaging dashboards in React Native, delivering intuitive data visualization solutions that enhanced user interaction and facilitated data-driven decision-making`,
-      `Innovatively designed an Order module with integrated product recommendation capabilities, resulting in a notable 15% increase in the total amount per order through strategic upselling and personalized user experiences`,
+      'Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Implemented responsive design and ensured cross-browser compatibility.',
+      'Worked closely with cross-functional teams to ensure the smooth progression of new features and bug fixes.',
+      'Participated in code reviews and provided constructive feedback to improve the codebase.',
     ],
-    technologies: ["Angular", "SCSS", "Ionic" , "Angular Material", "React Native", "Javascript", "Typescript"],
+    technologies: ["React", "CSS", "Javascript", "HTML"],
   },
-  {
-    year: "Aug 2023 - Sept 2023",
-    role: "Software Engineer Intern",
-    company: "NEETPrep GoodEd Technologies Private Limited",
-    description: [
-      `Developed dynamic, reusable components for product pages using React and CSS, enhancing UI efficiency and consistency`,
-      `Expertly crafted HTML emails with pre-2000 CSS, achieving responsive and visually appealing layouts without relying on CSS Grid or Flexbox`,
-      `Automated email delivery utilizing AWS SES, streamlining communication processes`
-    ],
-    technologies: ["React", "CSS", "HTML", "AWS", "Javascript"],
-  },
+  // {
+  //   year: "Aug 2023 - Sept 2023",
+  //   role: "Software Engineer Intern",
+  //   company: "NEETPrep GoodEd Technologies Private Limited",
+  //   description: [
+  //     `Developed dynamic, reusable components for product pages using React and CSS, enhancing UI efficiency and consistency`,
+  //     `Expertly crafted HTML emails with pre-2000 CSS, achieving responsive and visually appealing layouts without relying on CSS Grid or Flexbox`,
+  //     `Automated email delivery utilizing AWS SES, streamlining communication processes`
+  //   ],
+  //   technologies: ["React", "CSS", "HTML", "AWS", "Javascript"],
+  // },
 ];
 
 export const NAVLINKS = {
