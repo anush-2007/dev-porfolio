@@ -1,6 +1,6 @@
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
-import profilePic from "../assets/image.jpg";
+import profilePic from "../assets/IMG_2799.jpg";
 import Typewriter from "typewriter-effect";
 
 const container = (delay) => ({
