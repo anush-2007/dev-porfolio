@@ -29,7 +29,7 @@ import project3 from "../assets/projects/project-3.png";
   //   ],
   //   technologies: ["React", "CSS", "HTML", "AWS", "Javascript"],
   // },
-];
+// ];
 
 export const NAVLINKS = {
   github: "https://github.com/anush-2007",
