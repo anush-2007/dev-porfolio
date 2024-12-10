@@ -3,33 +3,34 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 
 
-// export const EXPERIENCES = [
-//   {
-//     year: "May 2023 - Aug 2023",
-//     role: "Frontend Developer Intern",
-//     company: "MemeXD",
-//     description: [
-//       'Developed and maintained web applications using React.js and other related technologies.',
-//       `Played a pivotal role in fostering collaboration among cross-functional teams, facilitating seamless transitions of new features and updates into existing projects to meet project deadlines and objectives`,
-//       'Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-//       'Implemented responsive design and ensured cross-browser compatibility.',
-//       'Worked closely with cross-functional teams to ensure the smooth progression of new features and bug fixes.',
-//       'Participated in code reviews and provided constructive feedback to improve the codebase.',
-//     ],
-//     technologies: ["React", "CSS", "Javascript", "HTML"],
-//   },
+export const EXPERIENCES = [
   // {
-  //   year: "Aug 2023 - Sept 2023",
-  //   role: "Software Engineer Intern",
-  //   company: "NEETPrep GoodEd Technologies Private Limited",
+  //   year: "May 2023 - Aug 2023",
+  //   role: "Frontend Developer Intern",
+  //   company: "MemeXD",
   //   description: [
-  //     `Developed dynamic, reusable components for product pages using React and CSS, enhancing UI efficiency and consistency`,
-  //     `Expertly crafted HTML emails with pre-2000 CSS, achieving responsive and visually appealing layouts without relying on CSS Grid or Flexbox`,
-  //     `Automated email delivery utilizing AWS SES, streamlining communication processes`
+  //     'Developed and maintained web applications using React.js and other related technologies.',
+  //     `Played a pivotal role in fostering collaboration among cross-functional teams, facilitating seamless transitions of new features and updates into existing projects to meet project deadlines and objectives`,
+  //     'Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+  //     'Implemented responsive design and ensured cross-browser compatibility.',
+  //     'Worked closely with cross-functional teams to ensure the smooth progression of new features and bug fixes.',
+  //     'Participated in code reviews and provided constructive feedback to improve the codebase.',
   //   ],
-  //   technologies: ["React", "CSS", "HTML", "AWS", "Javascript"],
+  //   technologies: ["React", "CSS", "Javascript", "HTML"],
   // },
-// ];
+  {
+    year: "July 2024 - December 2024",
+    role: "Frontend Developer Intern",
+    company: "Akashi Designer Studio",
+    description: [
+      `Designed and developed a responsive e-commerce platform using React.js, Tailwind CSS, and JavaScript.`,
+      `Implemented key features, including product catalog, search, filtering, and secure payment integration.`,
+      `Collaborated with backend developers to integrate RESTful APIs for product and order management.`,
+      'Participated in code reviews and providing constructive feedback to other developers.'
+    ],
+    technologies: ["React", "CSS", "HTML", "Javascript"],
+  },
+];
 
 export const NAVLINKS = {
   github: "https://github.com/anush-2007",
